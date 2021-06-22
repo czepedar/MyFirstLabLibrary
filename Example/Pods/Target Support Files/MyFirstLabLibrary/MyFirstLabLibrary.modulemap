@@ -1,0 +1,6 @@
+framework module MyFirstLabLibrary {
+  umbrella header "MyFirstLabLibrary-umbrella.h"
+
+  export *
+  module * { export * }
+}
